@@ -1,6 +1,7 @@
 body {
  background-color: #FCFCFC; 
  font-family: arial, sans-serif;
+ padding: 15px;
 }
 
 h1, p {
@@ -12,4 +13,13 @@ h1, p {
 h1 {
   font-size: 48px;
   color: #E44E2D;
+}
+
+.block {
+  width: 55%;
+  display: block;
+  margin: auto;
+  background-color: #FFFFFF;
+  border: 1px solid #DDD;
+  padding: 12px;
 }
