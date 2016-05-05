@@ -30,10 +30,10 @@ h1 {
 
 .btn-1 {
   display: inline-block;
-  color: #DDD;
+  color: #999;
   font-size: 18px;
   text-decoration: none;
-  border: 1px solid #DDD;
+  border: 1px solid #999;
   padding: 8px 12px;
   border-radius: 2px;
 }

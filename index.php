@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>First Test v0.0.4</title>
-  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" type="text/css" href="style.css?v=<?= time() ?>">
 </head>
 <body>
   <section>
