@@ -23,3 +23,18 @@ h1 {
   border: 1px solid #DDD;
   padding: 12px;
 }
+
+.text-center {
+  text-align: center;
+}
+
+.btn-1 {
+  background-color: #777;
+  padding: 8px 12px;
+  border-radius: 2px;
+  display: inline-block;
+  margin: auto;
+  text-align: center;
+  color: #F1F1F1;
+  text-decoration: none;
+}
